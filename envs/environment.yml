@@ -50,7 +50,7 @@ dependencies:
   - deprecated=1.2.14=pyh1a96a4e_0
   - docutils=0.18.1=py38haa244fe_1
   - double-conversion=3.2.0=h63175ca_1
-  - eigen=3.4.1=h91493d7_0
+  - eigen
   - et_xmlfile=1.1.0=pyhd8ed1ab_0
   - exceptiongroup=1.1.2=pyhd8ed1ab_0
   - executing=1.2.0=pyhd8ed1ab_0
@@ -159,6 +159,7 @@ dependencies:
   - libzopfli=1.0.3=h0e60522_0
   - loguru=0.7.0=py38haa244fe_0
   - loopstructural=v1.5.10=py38h4cae798_0
+  - LoopProjectFile
   - lxml=4.9.2=py38h8e95c58_0
   - lz4-c=1.9.4=hcfcfb64_0
   - m2w64-gcc-libgfortran=5.3.0=6
