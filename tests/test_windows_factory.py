@@ -1,7 +1,7 @@
 import pytest
 
-from pzero.windows_factory import BaseView, View3D, ViewStereoplot, NavigationToolbar, NewView2D, \
-    NewViewMap
+from pzero.windows_factory import BaseView, View3D, ViewStereoplot, NavigationToolbar, NewView2D, NewViewMap
+
 from pzero.project_window import ProjectWindow
 
 
