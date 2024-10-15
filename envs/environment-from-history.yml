@@ -29,6 +29,7 @@ dependencies:
   - shapely[version='>=2.0.6']
   - sphinx[version='>=5']
   - sphinx_rtd_theme[version='>=2']
+  - sqlite[version='>=3.45.3']
   - vedo
   - vtk-base[version='>=9.3.1']
   - vtk[version='>=9.3.1']
