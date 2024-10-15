@@ -31,7 +31,7 @@ jobs:
           activate-environment: pzero-testing
           environment-file: envs/std-environment.yml
           # python-version: 3.8.16
-          python-version: 3.8
+          python-version: 3.11
           auto-activate-base: false
 
       - name: Check Conda Dependencies
@@ -77,7 +77,7 @@ jobs:
           activate-environment: pzero-test
           environment-file: envs/std-environment.yml
           # python-version: 3.8.16
-          python-version: 3.8
+          python-version: 3.11
           auto-activate-base: false
 
       - name: Check Conda Dependencies
@@ -129,7 +129,7 @@ jobs:
           # environment-file: envs/macos-environment.yml
           environment-file: envs/std-environment.yml
           # python-version: 3.8.16
-          python-version: 3.8
+          python-version: 3.11
           auto-activate-base: false
 
       - name: Check Conda Dependencies
